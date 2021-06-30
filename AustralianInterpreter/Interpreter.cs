@@ -15,8 +15,9 @@ namespace AustralianInterpreter {
             bool started = false;
             foreach (var line in Code) {
                 if (i == 0) {
-                    if (line.ToUpper() == "OI MATE" || line.ToUpper() == "G'DAY COBBA") {
+                    if (line.ToUpper().StartsWith("OI MATE") || line.ToUpper().StartsWith("G'DAY COBBA")) {
                         started = true;
+                        i++;
                         continue;
                     } else {
                         Output = "Oi donkey, use OI MATE or G'DAY COBBA at the beginning of the code. Kids these days.";
@@ -30,9 +31,11 @@ namespace AustralianInterpreter {
                     } else if (line.ToUpper().StartsWith("YELL")) {
                         var regex = new Regex(Regex.Escape("YELL"));
                         var toYell = regex.Replace(line, "", 1).Trim();
-                        Output += "\n" + toYell;
+                        Output += toYell + "\n";
                     }
                 }
+
+                i++;
             }
 
             return 0;
