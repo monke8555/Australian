@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\Australian\AustralianInterpreter\obj\Debug\net6.0\AustralianInterpreter.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Australian\AustralianInterpreter\obj\Debug\net6.0\AustralianInterpreter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Australian\AustralianInterpreter\obj\Debug\net6.0\AustralianInterpreter.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Australian\AustralianInterpreter\obj\Debug\net6.0\AustralianInterpreter.AssemblyInfo.cs
+C:\Users\HP\source\repos\Australian\AustralianInterpreter\obj\Debug\net6.0\AustralianInterpreter.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Australian\AustralianInterpreter\bin\Debug\net6.0\AustralianInterpreter.deps.json
+C:\Users\HP\source\repos\Australian\AustralianInterpreter\bin\Debug\net6.0\AustralianInterpreter.dll
+C:\Users\HP\source\repos\Australian\AustralianInterpreter\bin\Debug\net6.0\ref\AustralianInterpreter.dll
+C:\Users\HP\source\repos\Australian\AustralianInterpreter\bin\Debug\net6.0\AustralianInterpreter.pdb
+C:\Users\HP\source\repos\Australian\AustralianInterpreter\obj\Debug\net6.0\AustralianInterpreter.dll
+C:\Users\HP\source\repos\Australian\AustralianInterpreter\obj\Debug\net6.0\ref\AustralianInterpreter.dll
+C:\Users\HP\source\repos\Australian\AustralianInterpreter\obj\Debug\net6.0\AustralianInterpreter.pdb

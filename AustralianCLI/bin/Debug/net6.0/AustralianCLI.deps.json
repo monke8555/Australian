@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AustralianCLI/1.0.0": {
+        "dependencies": {
+          "AustralianInterpreter": "1.0.0"
+        },
+        "runtime": {
+          "AustralianCLI.dll": {}
+        }
+      },
+      "AustralianInterpreter/1.0.0": {
+        "runtime": {
+          "AustralianInterpreter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AustralianCLI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AustralianInterpreter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
